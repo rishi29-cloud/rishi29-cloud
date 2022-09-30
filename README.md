@@ -13,3 +13,5 @@ C  C++ Python Java PHP HTML CSS
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi29-cloud&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishi29-cloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
