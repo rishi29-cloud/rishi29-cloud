@@ -9,7 +9,7 @@ I am a Student, Software Developer and an Effective Learner.
 
 
 🛠️ Languages and Tools :
-C  C++ Python Java PHP HTML CSS 
+C  C++ Python Java PHP HTML CSS PHP Blade 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishi29-cloud&theme=radical)
 
